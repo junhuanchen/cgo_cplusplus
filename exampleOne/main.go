@@ -1,8 +1,9 @@
 package main
+
 import (
-"funcExample/temp"
+	"exampleOne/temp"
 )
 
-func main () {
-   temp.P()
+func main() {
+	temp.P()
 }
